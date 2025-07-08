@@ -22,7 +22,7 @@ import { Checkbox } from '@/components/ui/checkbox';
 import { Label } from '@/components/ui/label';
 import { Slider } from '@/components/ui/slider';
 import { Skeleton } from '@/components/ui/skeleton';
-import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
+import { Sheet, SheetContent, SheetTrigger, SheetTitle } from '@/components/ui/sheet';
 import type { Model } from '@/lib/types';
 import { useDebounce } from '@/hooks/use-debounce';
 import { Search, ArrowRightLeft, FileText, DollarSign, Package, Tags, Building, SlidersHorizontal } from 'lucide-react';
@@ -320,7 +320,8 @@ export default function Home() {
             </Button>
           </SheetTrigger>
           <SheetContent side="left" className="w-[300px] p-0">
-             <FilterSidebar />
+            <SheetTitle>Filter Options</SheetTitle>
+            <FilterSidebar />
           </SheetContent>
         </Sheet>
       </div>
