@@ -34,6 +34,209 @@
         "thumbnailURL": "https://placehold.co/600x400.png?text=Image+2",
         "destinationURL": "https://en.wikipedia.org/wiki/Yakshagana",
         "sourceName": "Wikipedia"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/g70DT-9Uico/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/shorts/g70DT-9Uico",
+        "destinationURL": "https://www.youtube.com/shorts/g70DT-9Uico",
+        "sourceName": "YouTube"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/OC4q7WQVBLE/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/shorts/OC4q7WQVBLE",
+        "destinationURL": "https://www.youtube.com/shorts/OC4q7WQVBLE",
+        "sourceName": "YouTube"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/C1MlpEBIk--/",
+        "destinationURL": "https://www.instagram.com/reel/C1MlpEBIk--/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/Z2-8eSiOkPA/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/shorts/Z2-8eSiOkPA",
+        "destinationURL": "https://www.youtube.com/shorts/Z2-8eSiOkPA",
+        "sourceName": "YouTube"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/C7rG1Kmux23/",
+        "destinationURL": "https://www.instagram.com/reel/C7rG1Kmux23/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "facebook",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Facebook",
+        "previewVideoURL": "https://www.facebook.com/afaqs/videos/will-anamorphic-ooh-ads-transform-indias-advertising-landscapeindustry-experts-d/443068284743701/",
+        "destinationURL": "https://www.facebook.com/afaqs/videos/will-anamorphic-ooh-ads-transform-indias-advertising-landscapeindustry-experts-d/443068284743701/",
+        "sourceName": "Facebook"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/AQKokb1IuJ4/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/shorts/AQKokb1IuJ4",
+        "destinationURL": "https://www.youtube.com/shorts/AQKokb1IuJ4",
+        "sourceName": "YouTube"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/C_kV9p4IYcI/",
+        "destinationURL": "https://www.instagram.com/reel/C_kV9p4IYcI/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/M7yeWfSU44c/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/watch?v=M7yeWfSU44c",
+        "destinationURL": "https://www.youtube.com/watch?v=M7yeWfSU44c",
+        "sourceName": "YouTube"
+      },
+      {
+        "mediaType": "pinterest",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Pinterest",
+        "previewVideoURL": "https://in.pinterest.com/pin/9-types-of-ooh-advertising-video--1140536674358229015/",
+        "destinationURL": "https://in.pinterest.com/pin/9-types-of-ooh-advertising-video--1140536674358229015/",
+        "sourceName": "Pinterest"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/yCJgGpReKMM/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/watch?v=yCJgGpReKMM",
+        "destinationURL": "https://www.youtube.com/watch?v=yCJgGpReKMM",
+        "sourceName": "YouTube"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/C0YZML-Om4p/",
+        "destinationURL": "https://www.instagram.com/reel/C0YZML-Om4p/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "facebook",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Facebook",
+        "previewVideoURL": "https://www.facebook.com/facefirstmedia/videos/out-of-home-ooh-advertising-isnt-going-anywhere-its-evolving-heres-why-you-shoul/984776236697946/",
+        "destinationURL": "https://www.facebook.com/facefirstmedia/videos/out-of-home-ooh-advertising-isnt-going-anywhere-its-evolving-heres-why-you-shoul/984776236697946/",
+        "sourceName": "Facebook"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/Ciz0jHnXBWk/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/shorts/Ciz0jHnXBWk",
+        "destinationURL": "https://www.youtube.com/shorts/Ciz0jHnXBWk",
+        "sourceName": "YouTube"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/CiAe1o7J8Cy/",
+        "destinationURL": "https://www.instagram.com/reel/CiAe1o7J8Cy/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/-8MRRC2F45c/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/watch?v=-8MRRC2F45c",
+        "destinationURL": "https://www.youtube.com/watch?v=-8MRRC2F45c",
+        "sourceName": "YouTube"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/Cduvowvp_7-/",
+        "destinationURL": "https://www.instagram.com/reel/Cduvowvp_7-/?hl=am-et",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/CznQZGOSzm3/",
+        "destinationURL": "https://www.instagram.com/reel/CznQZGOSzm3/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/C1X7aoXMpus/",
+        "destinationURL": "https://www.instagram.com/reel/C1X7aoXMpus/?hl=am-et",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/C5WdjqQvHqE/",
+        "destinationURL": "https://www.instagram.com/reel/C5WdjqQvHqE/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/C7iOy2Nh81H/",
+        "destinationURL": "https://www.instagram.com/reel/C7iOy2Nh81H/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/Cu3e7pUJXzy/",
+        "destinationURL": "https://www.instagram.com/reel/Cu3e7pUJXzy/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/CuJJRW_IlKM/",
+        "destinationURL": "https://www.instagram.com/reel/CuJJRW_IlKM/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/C06Ug2uh6E-/",
+        "destinationURL": "https://www.instagram.com/reel/C06Ug2uh6E-/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/Ce8chV5JzXS/",
+        "destinationURL": "https://www.instagram.com/reel/Ce8chV5JzXS/?hl=ar",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/CZHZ6-4tKd6/",
+        "destinationURL": "https://www.instagram.com/reel/CZHZ6-4tKd6/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "instagram",
+        "thumbnailURL": "https://placehold.co/600x400.png?text=Instagram",
+        "previewVideoURL": "https://www.instagram.com/reel/C7q9So5sizo/",
+        "destinationURL": "https://www.instagram.com/reel/C7q9So5sizo/",
+        "sourceName": "Instagram"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/XPGvvsBYfKA/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/shorts/XPGvvsBYfKA",
+        "destinationURL": "https://www.youtube.com/shorts/XPGvvsBYfKA",
+        "sourceName": "YouTube"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/rSuiSBOsBFA/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/watch?v=rSuiSBOsBFA",
+        "destinationURL": "https://www.youtube.com/watch?v=rSuiSBOsBFA",
+        "sourceName": "YouTube"
       }
     ]
   },
@@ -50,7 +253,18 @@
     "series": "Other",
     "category": ["Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "mistralai/mistral-small-3.2-24b-instruct:free",
@@ -65,7 +279,36 @@
     "series": "Mistral",
     "category": ["Programming", "Reasoning", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/watch?v=528O3U7qMco",
+        "destinationURL": "https://www.youtube.com/watch?v=528O3U7qMco",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      },
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "mistralai/mistral-small-3.2-24b-instruct",
@@ -80,7 +323,18 @@
     "series": "Mistral",
     "category": ["Programming", "Reasoning", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "minimax/minimax-m1:extended",
@@ -95,7 +349,18 @@
     "series": "Other",
     "category": ["Programming", "Reasoning"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "minimax/minimax-m1",
@@ -110,7 +375,18 @@
     "series": "Other",
     "category": ["Programming", "Reasoning"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "google/gemini-2.5-flash-lite-preview-06-17",
@@ -125,7 +401,18 @@
     "series": "Gemini",
     "category": ["Reasoning"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "google/gemini-2.5-flash",
@@ -140,7 +427,18 @@
     "series": "Gemini",
     "category": ["Programming", "Reasoning"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "google/gemini-2.5-pro",
@@ -155,7 +453,18 @@
     "series": "Gemini",
     "category": ["Programming", "Reasoning"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "google/palm-2-chat-bison",
@@ -170,7 +479,18 @@
     "series": "Other",
     "category": ["Reasoning", "Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "google/palm-2-codechat-bison",
@@ -185,7 +505,18 @@
     "series": "Other",
     "category": ["Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "meta-llama/llama-2-70b-chat",
@@ -200,7 +531,18 @@
     "series": "Llama",
     "category": ["Writing", "Roleplay"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "meta-llama/llama-2-13b-chat",
@@ -215,7 +557,18 @@
     "series": "Llama",
     "category": ["Writing", "Roleplay"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "openai/gpt-3.5-turbo-0125",
@@ -230,7 +583,18 @@
     "series": "GPT",
     "category": ["Writing", "Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "openai/gpt-3.5-turbo-0301",
@@ -245,7 +609,18 @@
     "series": "GPT",
     "category": ["Writing", "Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "openai/gpt-3.5-turbo",
@@ -260,7 +635,18 @@
     "series": "GPT",
     "category": ["Writing", "Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "claude-3-opus",
@@ -275,7 +661,18 @@
     "series": "Claude",
     "category": ["Reasoning", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "llama-3-70b",
@@ -290,7 +687,18 @@
     "series": "Llama",
     "category": ["Programming", "Roleplay"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
     {
     "id": "gpt-4o",
@@ -305,7 +713,18 @@
     "series": "GPT",
     "category": ["Reasoning", "Programming", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "claude-3-sonnet",
@@ -320,7 +739,18 @@
     "series": "Claude",
     "category": ["Writing", "Reasoning"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "dall-e-3",
@@ -335,7 +765,18 @@
     "series": "Other",
     "category": ["Roleplay", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "cohere/command-r-plus",
@@ -350,7 +791,18 @@
     "series": "Command",
     "category": ["Reasoning", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "cohere/command-r",
@@ -365,7 +817,18 @@
     "series": "Command",
     "category": ["Reasoning", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "meta-llama/llama-3-8b-instruct",
@@ -380,7 +843,18 @@
     "series": "Llama",
     "category": ["Programming", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "anthropic/claude-3-haiku",
@@ -395,7 +869,18 @@
     "series": "Claude",
     "category": ["Reasoning", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "google/gemini-1.5-pro-latest",
@@ -410,7 +895,18 @@
     "series": "Gemini",
     "category": ["Reasoning", "Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "google/gemini-1.5-flash-latest",
@@ -425,7 +921,18 @@
     "series": "Gemini",
     "category": ["Reasoning", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "openai/gpt-4-turbo",
@@ -440,7 +947,18 @@
     "series": "GPT",
     "category": ["Reasoning", "Programming", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "openai/gpt-4",
@@ -455,7 +973,18 @@
     "series": "GPT",
     "category": ["Reasoning", "Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "mistralai/mistral-large-latest",
@@ -470,7 +999,18 @@
     "series": "Mistral",
     "category": ["Reasoning", "Programming", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "mistralai/mixtral-8x7b-instruct",
@@ -485,7 +1025,18 @@
     "series": "Mistral",
     "category": ["Programming", "Roleplay", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "databricks/dbrx-instruct",
@@ -500,7 +1051,18 @@
     "series": "Other",
     "category": ["Programming", "Reasoning"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "snowflake/snowflake-arctic-instruct",
@@ -515,7 +1077,18 @@
     "series": "Other",
     "category": ["Programming", "Reasoning"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "nous-research/hermes-2-pro-llama-3-8b",
@@ -530,7 +1103,18 @@
     "series": "Llama",
     "category": ["Programming", "Reasoning"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "deepseek/deepseek-coder",
@@ -545,7 +1129,18 @@
     "series": "Other",
     "category": ["Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "google/gemma-7b-it",
@@ -560,7 +1155,18 @@
     "series": "Gemini",
     "category": ["Writing", "Roleplay"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "microsoft/phi-3-medium-128k-instruct",
@@ -575,7 +1181,18 @@
     "series": "Other",
     "category": ["Reasoning", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "upstage/solar-10.7b-instruct",
@@ -590,7 +1207,18 @@
     "series": "Other",
     "category": ["Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "ibm/granite-13b-instruct-v2",
@@ -605,7 +1233,18 @@
     "series": "Other",
     "category": ["Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "01-ai/yi-large",
@@ -620,7 +1259,18 @@
     "series": "Other",
     "category": ["Reasoning", "Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "together-ai/qwen2-72b-instruct",
@@ -635,7 +1285,18 @@
     "series": "Other",
     "category": ["Reasoning", "Writing"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "allen-ai/olmo-7b-instruct",
@@ -650,7 +1311,18 @@
     "series": "Other",
     "category": ["Writing", "Roleplay"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "salesforce/x-gen-7b-instruct",
@@ -665,7 +1337,18 @@
     "series": "Other",
     "category": ["Writing", "Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "core-vortex/core-v1",
@@ -680,7 +1363,18 @@
     "series": "Vortex",
     "category": ["Reasoning"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "nexus-ai/nexus-catalyst",
@@ -695,7 +1389,18 @@
     "series": "Nexus",
     "category": ["Writing", "Roleplay"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "quantum-leap/quantum-coder-v3",
@@ -710,7 +1415,18 @@
     "series": "Quantum Coder",
     "category": ["Programming"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "aether-systems/aether-vision",
@@ -725,7 +1441,18 @@
     "series": "Aether",
     "category": ["Reasoning"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   },
   {
     "id": "synapse-dynamics/synapse-r",
@@ -740,6 +1467,17 @@
     "series": "Synapse",
     "category": ["Reasoning", "Roleplay"],
     "thumbnailUrl": "https://placehold.co/600x400.png",
-    "previewUrl": "https://placehold.co/600x400.gif"
+    "previewUrl": "https://placehold.co/600x400.gif",
+    "media": [
+      {
+        "mediaType": "youtube",
+        "thumbnailURL": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "previewVideoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "destinationURL": "https://youtube.com/watch?v=dQw4w9WgXcQ",
+        "duration": "17:10",
+        "sourceName": "YouTube",
+        "sourceChannel": "Yaksha Channel"
+      }
+    ]
   }
 ]
